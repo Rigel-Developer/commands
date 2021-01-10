@@ -1,0 +1,26 @@
+[2021-01-04 17:02:10.476] [sharedprocess] [info] main {"machineId":"cdaba1bfd56525627d8ba4fdcc5a89a3fc92f23b9ba89d65ec56ba9b54020497","windowId":2}
+[2021-01-04 17:02:50.489] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-04 17:15:31.042] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-01-04 17:15:34.518] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner undefined
+[2021-01-04 17:15:34.713] [sharedprocess] [info] Extracted extension to /home/jhonny/.vscode/extensions/.formulahendry.code-runner-0.11.1: formulahendry.code-runner
+[2021-01-04 17:15:34.714] [sharedprocess] [info] Renamed to /home/jhonny/.vscode/extensions/formulahendry.code-runner-0.11.1
+[2021-01-04 17:15:34.714] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2021-01-04 17:15:34.762] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2021-01-04 17:16:34.305] [sharedprocess] [info] Installing extension: shardulm94.trailing-spaces
+[2021-01-04 17:16:35.936] [sharedprocess] [info] Downloaded extension: shardulm94.trailing-spaces undefined
+[2021-01-04 17:16:35.991] [sharedprocess] [info] Extracted extension to /home/jhonny/.vscode/extensions/.shardulm94.trailing-spaces-0.3.1: shardulm94.trailing-spaces
+[2021-01-04 17:16:35.991] [sharedprocess] [info] Renamed to /home/jhonny/.vscode/extensions/shardulm94.trailing-spaces-0.3.1
+[2021-01-04 17:16:35.991] [sharedprocess] [info] Installation completed. shardulm94.trailing-spaces
+[2021-01-04 17:16:36.048] [sharedprocess] [info] Extensions installed successfully: shardulm94.trailing-spaces
+[2021-01-04 17:17:10.397] [sharedprocess] [info] Installing extension: oderwat.indent-rainbow
+[2021-01-04 17:17:11.097] [sharedprocess] [info] Downloaded extension: oderwat.indent-rainbow undefined
+[2021-01-04 17:17:11.143] [sharedprocess] [info] Extracted extension to /home/jhonny/.vscode/extensions/.oderwat.indent-rainbow-7.5.0: oderwat.indent-rainbow
+[2021-01-04 17:17:11.144] [sharedprocess] [info] Renamed to /home/jhonny/.vscode/extensions/oderwat.indent-rainbow-7.5.0
+[2021-01-04 17:17:11.145] [sharedprocess] [info] Installation completed. oderwat.indent-rainbow
+[2021-01-04 17:17:11.198] [sharedprocess] [info] Extensions installed successfully: oderwat.indent-rainbow
+[2021-01-04 17:17:58.365] [sharedprocess] [info] Installing extension: njpwerner.autodocstring
+[2021-01-04 17:18:01.025] [sharedprocess] [info] Downloaded extension: njpwerner.autodocstring undefined
+[2021-01-04 17:18:01.113] [sharedprocess] [info] Extracted extension to /home/jhonny/.vscode/extensions/.njpwerner.autodocstring-0.5.4: njpwerner.autodocstring
+[2021-01-04 17:18:01.113] [sharedprocess] [info] Renamed to /home/jhonny/.vscode/extensions/njpwerner.autodocstring-0.5.4
+[2021-01-04 17:18:01.114] [sharedprocess] [info] Installation completed. njpwerner.autodocstring
+[2021-01-04 17:18:01.170] [sharedprocess] [info] Extensions installed successfully: njpwerner.autodocstring

@@ -1,0 +1,17 @@
+[Running] python -u "/home/jhonny/Documentos/Cursos/Python/prueba2.py"
+dict_values(['value', 'value2'])
+<class 'list'>
+<class 'tuple'>
+<class 'dict'>
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] python -u "/home/jhonny/Documentos/Cursos/Python/ing_spanish.py"
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] python -u "/home/jhonny/Documentos/Cursos/Python/ing_spanish.py"
+dict_keys(['so they’ll be useful throughout your life as a'])
+
+[Done] exited with code=0 in 0.036 seconds
+

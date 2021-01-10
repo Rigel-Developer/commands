@@ -1,0 +1,6 @@
+file:///home/jhonny/Documentos/Cursos/Python/ing_spanish.py {"mtime":1609801225455,"ctime":1609801074753,"size":135,"etag":"369a5remj4b","orphaned":false}
+words = {
+"so they’ll be useful throughout your life as a":"para que sean útiles durante toda su vida como"
+
+}
+print(words.values())

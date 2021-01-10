@@ -1,0 +1,4 @@
+[Added Associations]
+inode/directory=code-oss.desktop;
+text/html=code-oss.desktop;
+application/pdf=org.gnome.Evince.desktop;mupdf.desktop;
